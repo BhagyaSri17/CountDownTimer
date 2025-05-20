@@ -1,5 +1,5 @@
 let countdown = () => {
-    let futureDate = new Date("31 Dec 2023");
+    let futureDate = new Date("31 Dec 2025");
     let currentDate = new Date();
     let myDate = futureDate - currentDate;
 
